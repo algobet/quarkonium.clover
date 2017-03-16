@@ -1,4 +1,4 @@
-# Welcome to Quarkonium
+# Welcome to Quarkonium Clover
 
 
 ## Commands
