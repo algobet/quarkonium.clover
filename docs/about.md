@@ -1,2 +1,2 @@
-# About Quarkonium Clover
+# About Quarkonium
 

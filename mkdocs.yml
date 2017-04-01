@@ -1,6 +1,13 @@
-site_name: Quarkonium Clover
+site_name: Quarkonium
 pages:
-  - Home: index.md
+  - Welcome: index.md
   - About: about.md
+  - BAO: bao.md
+  - BAS: bas.md
+  - DAP: dap.md
+  - Whitepaper: whitepaper.md
+  - POC:
+    - VAST: 'poc/vast.md'
+  - Misc: misc.md
 theme: readthedocs
 
