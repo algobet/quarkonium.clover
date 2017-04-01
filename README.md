@@ -9,6 +9,6 @@
 Then, edit `./mkdocs.yml` and add files in `./docs/`
 
 `.../clover$ mkdocs build --clean`  
-`.../clover$ mkdocs serve [--dev-addr=0.0.0.0:8002]`
+`.../clover$ mkdocs serve [--dev-addr=0.0.0.0:8003]`
 
 Then, test view at http://127.0.0.1:8000 (default port)
