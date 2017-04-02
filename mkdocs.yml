@@ -1,6 +1,6 @@
 site_name: Quarkonium
 pages:
-  - Welcome: index.md
+  - Home: index.md
   - About: about.md
   - BAO: bao.md
   - BAS: bas.md
