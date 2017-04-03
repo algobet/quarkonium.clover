@@ -44,7 +44,7 @@ The information contained in this website is for general information purposes on
 ## Contact
 
 - Website: http://www.quarkonium.org
-- Github: https://github.com/quarkonia/
+- Github: https://github.com/quarkonium-org/
 - Slack: quarkonium.slack.com
-- Email: info@quarkonium.org
+- Email: admin@quarkonium.org
 
