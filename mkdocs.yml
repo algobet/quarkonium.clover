@@ -3,11 +3,16 @@ pages:
   - Home: index.md
   - About: about.md
   - BAO: bao.md
-  - BAS: bas.md
+  - DAS: das.md
   - DAP: dap.md
-  - Whitepaper: whitepaper.md
+  - BOT: bot.md
+#   - Whitepaper: whitepaper.md
   - POC:
     - VAST: 'poc/vast.md'
+    - III: 'poc/iii.md'
+    - PDAMP: 'poc/pdamp.md'
+    - Badge: 'poc/badge.md'
+    - ABOT: 'poc/abot.md'
   - Misc: misc.md
 theme: readthedocs
 

@@ -13,7 +13,7 @@
 
 ### What Is `BAO`?
 
-### What Is `BAS`?
+### What Is `DAS`?
 
 ### What Is `DAP`?
 
@@ -50,5 +50,5 @@ The information contained in this website is for general information purposes on
 - Website: http://www.quarkonium.org
 - Github: https://github.com/quarkonium-org/
 - Slack: quarkonium.slack.com
-- Email: admin@quarkonium.org
+- Email: quarkonium@algobet.org
 

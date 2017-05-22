@@ -1,3 +1,3 @@
 # Quarkonium - Quarkonizing the Digital World
-`Quarkonium™ Whitepaper | algobet Labs © 2017`
+`Quarkonium™ | algobet Labs © 2017`
 

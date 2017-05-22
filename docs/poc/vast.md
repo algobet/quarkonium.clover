@@ -1,1 +1,1 @@
-# Value At Space & Time (VAST)
+# Value At Space Time

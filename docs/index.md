@@ -4,7 +4,7 @@
 ## Know-how to Read
 
 * `Quarkonium` is a self-evolved digital asset simulation system, employing concepts from the quarkonium in Particle Physics.
-* Infrastructural facilities consist of `BAO`, `BAS`, `DAP`, etc., which are built-in components in [`Quarkonium Space`](), the smart cloud by `Quarkonium™`. `Quarkonization` is the core concept to build those infrastrucutural facilities.
+* Infrastructural facilities consist of `BAO`, `DAS`, `DAP`, etc., which are built-in components in [`Quarkonium Space`](), the smart cloud by `Quarkonium™`. `Quarkonization` is the core concept to build those infrastrucutural facilities.
 * Constitutional facilities are derived from the concept of [`Dasset™`](), the core simulator to define the entropy in the system. `Dassetization` is the core concept to build those constitutional facilities.
 * Simulators play essential roles in the system.
 
@@ -43,7 +43,7 @@ Communication among `quarkonium`s is called `Interstellar`. Users in a `quarkoni
 
 ### Allbot Lab
 
-`Allbot Lab` is the `Allbot™`'s branded artificial intelligence hub. It is a core member of the `Quarkonium Lab`.
+`Allbot Lab` is the `Allbotᴾᴿᴼ`'s branded artificial intelligence hub. It is a core member of the `Quarkonium Lab`.
 
 ### Blokaly Lab
 
