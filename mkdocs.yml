@@ -1,7 +1,7 @@
 site_name: Quarkonium
 pages:
   - Home: index.md
-  - About: about.md
+  - Quarkonization: quarkonization.md
   - BAO: bao.md
   - DAS: das.md
   - DAP: dap.md
